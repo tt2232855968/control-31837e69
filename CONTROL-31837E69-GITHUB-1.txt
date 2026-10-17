@@ -1,0 +1,4 @@
+# 受控合成测试；此值从未用于任何真实服务
+# SYNTHETIC SECURITY TEST — NOT A REAL CREDENTIAL
+CASE_ID=CONTROL-31837E69-GITHUB-1
+DATABASE_URL=mysql://lab_user:Z_WALaN8uBFgDsWUqiqfRaVRy7F1D_bx@db.example.invalid:3306/lab
